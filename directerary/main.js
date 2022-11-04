@@ -1,5 +1,5 @@
-const { Post } = require("./models")
-const Cheese = require("./cheese.model")
+const { db } = require("./db/db")
+const { Cheese } = require("./models")
 
 async function main () {
 
