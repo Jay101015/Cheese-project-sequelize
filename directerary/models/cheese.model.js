@@ -16,7 +16,6 @@ Cheese.init({
   },
   location: {
     type: DataTypes.TEXT,
-    
   },
   tasty: {
     type: DataTypes.BOOLEAN,
